@@ -1,0 +1,17 @@
+{
+  "name": "冲刺打卡 · 每日一栏",
+  "short_name": "冲刺打卡",
+  "description": "计挑赛 / 六级 / 蓝桥杯 / Java / 数据结构的每日打卡",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f8",
+  "theme_color": "#101c33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
